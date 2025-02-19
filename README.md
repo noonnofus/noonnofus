@@ -25,8 +25,6 @@ I’m Kevin, a full-stack developer who can't resist curiosity and a loves innov
 | Tools & Collaborations | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) |
 
 <br/>
-<br/>
-<br/>
 
 ## Github Status :books:
 <div align="center">
